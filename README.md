@@ -110,11 +110,6 @@ This project is for **educational purposes only** and should not be used as a me
 
 ---
 
-## 👨‍💻 Author
-
-* Developed by: **Anakha**
-* Project Type: Academic / Final Year Project
-
 ---
 
 ## ⭐ Future Improvements
