@@ -88,11 +88,6 @@ The dataset used is based on standard heart disease datasets containing features
 
 This project is for **educational purposes only** and should not be used as a medical diagnostic tool.
 
-👨‍💻 Author
-
-* Developed by: **Anakha**
-* Project Type: Academic / Final Year Project
-
 ⭐ Future Improvements
 
 * Improve model accuracy
